@@ -24,6 +24,8 @@
 **🛠️ Infra and Tools**
 <br>
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
