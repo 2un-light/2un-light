@@ -49,6 +49,13 @@
 <br>
 <br>
 
+## 📧 Blog & Contact 📧 ##
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5F00.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://2un-light.tistory.com/)
+[![Email Badge](https://img.shields.io/badge/Email-03C75A.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sts07129@naver.com)
+<br>
+<br>
+<br>
+
 ## 🏆 Awards & Achievements 🏆 ##
 - 🎓우리FISA 클라우드 엔지니어링 과정 수료
 - 🏆우리 FISA 프로젝트 우수상
@@ -58,16 +65,10 @@
 - 🥇 캡스톤디자인 경진대회 금상
 <br>
 <br>
+<br>
 
-## 📧 Contact 📧 ##
-[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5F00.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://2un-light.tistory.com/)
-[![Email Badge](https://img.shields.io/badge/Email-03C75A.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sts07129@naver.com)
-<br>
-<br>
-<br>
 
 ## 🚀 Stats 🚀 ##
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2un-light&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=2un-light&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
