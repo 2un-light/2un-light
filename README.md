@@ -68,6 +68,12 @@
 <br>
 <br>
 
+## 📜 Certifications 📜 ##
+- 정보처리기사
+- SQLD (SQL 개발자)
+<br>
+<br>
+
 ## 🚀 Stats 🚀 ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2un-light&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
