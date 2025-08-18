@@ -72,6 +72,7 @@
 ## 📜 Certifications 📜 ##
 - 정보처리기사
 - SQLD (SQL 개발자)
+- 리눅스 마스터 2급
 <br>
 <br>
 
